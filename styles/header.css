@@ -1,0 +1,26 @@
+.logo{
+    width: 130px;
+    margin-left: 115px;
+    margin-left: 0;
+}
+
+.search-button{
+    width: 25px;
+   
+}
+
+.nav-font{
+    font-size: 14px;
+    font-weight: 500;
+   
+}
+.nav-font li{
+    margin-left: 25px
+}
+.landing-image{
+    width: 355px;
+}
+
+.footer-font{
+    font-size: 11px;
+}
